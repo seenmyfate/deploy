@@ -1,0 +1,5 @@
+require_relative 'bundle/install'
+require_relative 'git/pull'
+require_relative 'notification/twitter'
+require_relative 'rake/migrate'
+require_relative 'unicorn/restart'
