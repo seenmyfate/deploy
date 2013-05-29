@@ -1,7 +1,8 @@
 # Deploy  [![Build Status](https://travis-ci.org/seenmyfate/deploy.png?branch=master)](http://travis-ci.org/seenmyfate/deploy) [![Code Climate](https://codeclimate.com/badge.png)](https://codeclimate.com/github/seenmyfate/deploy)
 
-_Please note this is very early days, this project will deploy successfully but I would not recommend using it in production just yet_
-
+This project fell out of the early spikes undertaken as part of the [Capistrano v3 project](https://github.com/capistrano/capistrano).
+I was interested in looking at the possibility of using the middleware pattern that underpins [Vagrant](https://github.com/mitchellh/vagrant) for building a modular deployment, and this is the end result.
+Although this project will deploy code, I wouldn't recommend actually using it for anything.
 
 ## Installation
 
