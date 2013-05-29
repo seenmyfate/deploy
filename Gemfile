@@ -7,9 +7,8 @@ gem 'ansi', '~> 1.4.3'
 gem 'twitter', '~> 4.1.2'
 
 group :development do
-  gem 'rspec', '~> 2.11.0'
-  gem 'yard', '~> 0.8.3'
-  gem 'bundler', '~> 1.2.0'
-  gem 'jeweler', '~> 1.8.4'
-  gem 'simplecov', '~> 0.7.1'
+  gem 'rspec'
+  gem 'yard'
+  gem 'jeweler'
+  gem 'simplecov'
 end
